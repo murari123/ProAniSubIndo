@@ -1,17 +1,3 @@
-
-/* CSS BUNDLE 
-   ======================================= */
-body {background:#e2e4e6;color:#676767;font-family:Roboto, Segoe UI, Arial,sans-serif;font-size:15px;line-height:1.8;overflow-x:hidden;text-rendering:optimizeLegibility;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;}
-.cl,.clear{clear:both}
-.cl:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}
-.fl{float:left;}
-.fr{float:right;}
-.tl{text-align:left;}
-.tr{text-align:right;}
-.dn{display:none;visibility:hidden;}
-::-webkit-scrollbar{width:7px;height:7px;background:#EEE;}
-::-webkit-scrollbar-thumb{background:#00a2ff;}
-
 /* WRAPPER
    ======================================= */
 #top-outer{position:fixed;top:0;width:100%;z-index:100;padding:0px}
